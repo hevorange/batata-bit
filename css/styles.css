@@ -352,6 +352,26 @@ main{
 
 }
 
+.icon-clock{
+
+    background-image: url('../assets/icons/clock.svg');
+}
+.icon-eye{
+    background-image: url('../assets/icons/eye.svg');
+
+}
+.icon-dollar{
+
+    background-image: url('../assets/icons/dollar-sign.svg');
+
+}
+
+.icon-checkout{
+
+    background-image: url('../assets/icons/check-circle.svg');
+
+}
+
 .product--card-title{
 
     margin-bottom: 15px;
