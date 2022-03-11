@@ -17,3 +17,7 @@
 
     justify-content: center;
 }
+
+.plans-container--slider{
+    overflow-x: unset;
+}
